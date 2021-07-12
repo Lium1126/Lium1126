@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there, I'm Lium1126 👋
+Hello, I'm Yoshiya Suzuki. A GitHub name is "Lium1126".
 
-<!--
-**Lium1126/Lium1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👀 Profile
+I'm a student studying Information Science at Aichi Institute of Technology.
 
-Here are some ideas to get you started:
+### 🔭 Work
+I'm currently working EAGIS since 2021.6~ @Pluslab .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🍀 Skills
+- General programming languages💻
+  - Assembly: Understanding of computer basics
+  - C lang: Studying of basic programming
+  - C++: Competitive programming
+  - Java: Studied at university
+  - Python: I used for research in high school
+
+- Web programming languages🌎
+  - PHP: Backend programs for some Web Apps
+  - JavaScript: Frontend programs for some Web Apps
+
+- Other📖
+  - Docker: Building server as a hobby
+
+### 📊 Activity
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 💨 Link
+- Lab -> https://pluslab.org/
