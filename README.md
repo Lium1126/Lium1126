@@ -13,7 +13,7 @@ I'm currently working [EAGIS](https://github.com/Pluslab/EAGIS) since 2021.6~ @P
   - C lang: Studying of basic programming
   - C++: Competitive programming
   - Java: Studied at university
-  - Python: I used for research in high school
+  - Python: I used for research in high school and more
 
 - Web programming languages🌎
   - PHP: Backend programs for some Web Apps
