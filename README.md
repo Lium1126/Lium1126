@@ -20,7 +20,7 @@ I'm currently working [EAGIS](https://github.com/Pluslab/EAGIS) since 2021.6~ @P
   - JavaScript: Frontend programs for some Web Apps
 
 - Other📖
-  - Docker: Building server as a hobby
+  - Docker: Building server as a hobby🦉
 
 ### 📊 Activity
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
