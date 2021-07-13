@@ -25,5 +25,7 @@ I'm currently working [EAGIS](https://github.com/Pluslab/EAGIS) since 2021.6~ @P
 ### 📊 Activity
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lium1126&show_icons=true&theme=tokyonight)
+
 ### 💨 Link
 - Lab -> https://pluslab.org/
