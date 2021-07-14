@@ -8,7 +8,7 @@ I'm a student studying Information Science at Aichi Institute of Technology.
 I'm currently working [EAGIS](https://github.com/Pluslab/EAGIS) since 2021.6 @Pluslab.
 
 ### 🍀 Skills
-- General programming languages💻
+- General purpose programming languages💻
   - Assembly: Understanding of computer basics
   - C lang: Studying of basic programming
   - C++: Competitive programming
