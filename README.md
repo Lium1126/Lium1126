@@ -14,10 +14,14 @@ I'm currently working [EAGIS(Private repo)](https://github.com/Pluslab/EAGIS) si
   - `C++`: Competitive programming
   - `Java`: Studied at university
   - `Python`: I used for research in high school and more
+  - `Go`: I used for research
 
 - Web programming languages🌎
   - `PHP`: Backend programs for some Web Apps
+     - `Laravel`
   - `JavaScript`: Frontend programs for some Web Apps
+    - `jQuery`
+    - `Vue.js`
 
 - Other🦉
   - `Docker`: Building server as a hobby
