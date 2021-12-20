@@ -24,12 +24,12 @@ I'm currently working [EAGIS(Private repo)](https://github.com/Pluslab/EAGIS) si
     - `Vue.js`
 
 - Other🦉
-  - `Docker`: Building server as a hobby
+  - `Docker`: Building server as a hobby and work
 
 ### 📊 Activity
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lium1126&row=2&column=4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lium1126&show_icons=true&theme=tokyonight&count_private=true)
+![Suzuki Yoshiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lium1126&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lium1126&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💨 Link
