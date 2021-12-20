@@ -15,6 +15,7 @@ I'm currently working [EAGIS(Private repo)](https://github.com/Pluslab/EAGIS) si
   - `Java`: Studied at university
   - `Python`: I used for research in high school and more
   - `Go`: I used for research
+  - `C#`: I've developed VR game with Unity and Oculus Rift s before
 
 - Web programming languages🌎
   - `PHP`: Backend programs for some Web Apps
