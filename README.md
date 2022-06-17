@@ -5,13 +5,14 @@ Hello, I'm Yoshiya Suzuki. A GitHub name is "Lium1126".
 I'm a student studying Information Science at Aichi Institute of Technology.
 
 ### 🔭 Work
-I'm currently working [EAGIS(Private repo)](https://github.com/Pluslab/EAGIS) since 2021.6 @Pluslab.
+- I'm doing research and development on overlay network at @Pluslab
+- I'm customizing Qualnet for VANET simulation at @Pluslab
 
 ### 🍀 Skills
 - General purpose programming languages💻
   - `Assembly`: Understanding of computer basics
   - `C lang`: Studying of basic programming
-  - `C++`: Competitive programming
+  - `C++`: Competitive programming and customizing Qualnet
   - `Java`: Studied at university
   - `Python`: I used for research in high school and more
   - `Go`: I used for research
