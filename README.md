@@ -27,6 +27,7 @@ I'm a student studying Information Science at Aichi Institute of Technology.
 
 - Other🦉
   - `Docker`: Building server as a hobby and work
+  - `Prometheus & Grafana`: I used for research
 
 ### 📊 Activity
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lium1126&row=2&column=4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
