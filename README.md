@@ -6,7 +6,7 @@ I'm a student studying Information Science at Aichi Institute of Technology.
 
 ### 🔭 Work
 - I'm doing research and development on overlay network at @Pluslab
-- I'm customizing Qualnet for VANET simulation at @Pluslab
+- I'm customizing QualNet for VANET simulation at @Pluslab
 
 ### 🍀 Skills
 - General purpose programming languages💻
