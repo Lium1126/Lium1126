@@ -24,7 +24,7 @@ I'm a student studying Information Science at Aichi Institute of Technology.
   - `JavaScript`: Frontend programs for some Web Apps
     - `jQuery`
     - `Vue.js`
-  - `TypeScript`: During my internship, I wrote code for a commercial product
+  - `TypeScript`: During my internship, I wrote code for a commercial product @NTT com
 
 - Other🦉
   - `Docker`: Building server as a hobby and work
