@@ -1,5 +1,5 @@
 ## Hi there, I'm Lium1126 👋
-Hello, I'm Yoshiya Suzuki. A GitHub name is "Lium1126".
+Hello, I'm DevOps engineer in Japan.
 
 ### 👀 Profile
 I'm a student studying Information Science at Aichi Institute of Technology.
