@@ -1,12 +1,14 @@
 ## Hi there, I'm Homare 👋
-Hello, I'm DevOps engineer in Japan.
-
 ### 👀 Profile
-I'm a student studying Information Science at Aichi Institute of Technology.
+I'm a DevOps engineer in Japan.
 
-### 🔭 Work
-- I'm doing research and development on overlay network at @Pluslab
-- I'm customizing QualNet for VANET simulation at @Pluslab
+### 🔧 Work
+- I development SDKs and servers for WebRTC.
+- I operate a server in the cloud.
+
+### 🔭 Research
+- I researched and developmented on overlay network at @Pluslab
+- I customized QualNet for VANET simulation at @Pluslab
 
 ### 🍀 Skills
 - General purpose programming languages💻
@@ -34,7 +36,7 @@ I'm a student studying Information Science at Aichi Institute of Technology.
 ### 📊 Activity
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lium1126&row=2&column=4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Suzuki Yoshiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lium1126&show_icons=true&theme=tokyonight&count_private=true)
+![Homare's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lium1126&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lium1126&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💨 Link
